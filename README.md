@@ -1,2 +1,0 @@
-# JavaAssignment
-VITI MOBILE FLUTTER
